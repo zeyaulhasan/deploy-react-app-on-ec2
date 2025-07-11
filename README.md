@@ -1,3 +1,8 @@
+print("✅ This is a new change pushed to GitHub")
+
+Added test print statement
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
